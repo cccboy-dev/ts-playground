@@ -1,4 +1,5 @@
 import sum from './sum'
+import './omit'
 
 export const name = 'croatia'
 
